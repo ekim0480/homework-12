@@ -359,9 +359,7 @@ function empUpdate() {
                         }
                     }
                 ])
-                .then(res => {
-
-                }
+       
                 
                 // .then((roleChoice) => {
                 //     connection.query(`SELECT id FROM role WHERE title = ${roleChoice.empNewRole}`, function(err, roleIdQuery) {
